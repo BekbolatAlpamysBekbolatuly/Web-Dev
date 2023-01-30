@@ -1,0 +1,51 @@
+body{
+    background-color: #141414;
+    
+}
+.head{
+    background-image: url(fon1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+
+}
+.logo{
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.buk{
+    color:red;
+    padding-left: 25px;
+    padding-top: 50px;
+    text-decoration: none;
+}
+.btn{
+    position: absolute;
+    background-color: white;
+    width:100px;
+    height :30px;
+    left: 1253px;
+    top: 37px;
+    border-radius: 10px;
+    transition: background-color 1s linear;
+}
+.btn:hover{
+    background-color: black;
+}
+.ser{
+    color:white;
+    position: absolute;
+    width: 965px;
+    height: 40px;
+    left: 238px;
+    top: 350px;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 40px;
+}
+.ser1{
+
+}

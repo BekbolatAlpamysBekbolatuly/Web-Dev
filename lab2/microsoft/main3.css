@@ -1,0 +1,63 @@
+body{
+}
+.container{
+    margin-top: 20px;
+}
+.header-line{
+    display: flex;
+}
+.header-logo{
+    margin-right: 10px;
+   
+}
+.menu{
+    display: flex;
+    list-style-type: none; 
+    
+}
+a{
+    margin: 0px 20px;
+}
+.menuu{
+    text-decoration: none;  
+    white-space:nowrap;
+}
+.menuu1{
+    text-decoration: none; 
+    white-space:nowrap;
+}
+.rightmenu{
+    display: flex;
+    margin-left:400px ;
+    list-style-type: none;   
+}
+.btn1{
+    margin-left: 30px;
+}
+.container2{
+    background: url(fon1.avif);
+    margin-top: 35px;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover  ;
+}
+.block1{
+    width:300px;
+    margin-left: 30px;
+}
+.block2{
+    width:300px;
+    margin-left: 30px;
+}
+.block3{
+    width:300px;
+    margin-left: 30px;
+}
+.block4{
+    width:300px;
+    margin-left: 30px;
+}
+.blocks{
+    display: flex;
+    margin-top: 20px;
+}
